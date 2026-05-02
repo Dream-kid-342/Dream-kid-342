@@ -10,9 +10,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=enockmumo&color=4fc3f7&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=Dream-kid-342&color=4fc3f7&style=flat-square&label=profile+views)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/enockmumo?color=4fc3f7&style=flat-square&logo=github&label=followers)](https://github.com/enockmumo)
+[![GitHub followers](https://img.shields.io/github/followers/Dream-kid-342?color=4fc3f7&style=flat-square&logo=github&label=followers)](https://github.com/Dream-kid-342)
 
 </div>
 
@@ -266,17 +266,31 @@ class AIEngineer:
 
 <br/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=enockmumo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=4fc3f7&icon_color=4fc3f7&title_color=4fc3f7"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Dream-kid-342&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=4fc3f7&icon_color=4fc3f7&title_color=4fc3f7&hide_border=false&card_width=400" alt="Enock GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dream-kid-342&layout=compact&langs_count=8&theme=github_dark&border_color=4fc3f7&title_color=4fc3f7&hide_border=false&card_width=400" alt="Top Languages"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dream-kid-342&theme=github_dark"/>
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dream-kid-342&theme=github_dark"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enockmumo&layout=compact&langs_count=8&theme=github_dark&border_color=4fc3f7&title_color=4fc3f7"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dream-kid-342&theme=github_dark"/>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=enockmumo&theme=github-dark-blue&border=4fc3f7&ring=4fc3f7&fire=ef5350&currStreakLabel=4fc3f7&sideLabels=90caf9&dates=90caf9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dream-kid-342&theme=github-dark-blue&border=4fc3f7&ring=4fc3f7&fire=ef5350&currStreakLabel=4fc3f7&sideLabels=90caf9&dates=90caf9)](https://git.io/streak-stats)
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enockmumo&bg_color=0d1117&color=4fc3f7&line=4fc3f7&point=ffffff&area=true&area_color=1a2332&hide_border=false&border_color=4fc3f7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dream-kid-342&bg_color=0d1117&color=4fc3f7&line=4fc3f7&point=ffffff&area=true&area_color=1a2332&hide_border=false&border_color=4fc3f7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/4fc3f7/Dream-kid-342" alt="Contribution Chart" width="100%"/>
 
 </div>
 
@@ -310,23 +324,23 @@ class AIEngineer:
 
 <br/>
 
-<a href="mailto:enockmumo@email.com">
+<a href="mailto:Dream-kid-342@email.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/enockmumo">
+<a href="https://twitter.com/Dream-kid-342">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/enockmumo">
+<a href="https://linkedin.com/in/Dream-kid-342">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://enockmumo.dev">
+<a href="https://Dream-kid-342.dev">
   <img src="https://img.shields.io/badge/Portfolio-4FC3F7?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="https://github.com/enockmumo">
+<a href="https://github.com/Dream-kid-342">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
