@@ -266,19 +266,9 @@ class AIEngineer:
 
 <br/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Dream-kid-342&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=4fc3f7&icon_color=4fc3f7&title_color=4fc3f7&hide_border=false&card_width=400" alt="Enock GitHub Stats"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Dream-kid-342&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=4fc3f7&icon_color=4fc3f7&title_color=4fc3f7&hide_border=false" alt="Enock GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dream-kid-342&layout=compact&langs_count=8&theme=github_dark&border_color=4fc3f7&title_color=4fc3f7&hide_border=false&card_width=400" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dream-kid-342&theme=github_dark"/>
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dream-kid-342&theme=github_dark"/>
-&nbsp;
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dream-kid-342&theme=github_dark"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dream-kid-342&layout=compact&langs_count=8&theme=github_dark&border_color=4fc3f7&title_color=4fc3f7&hide_border=false" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -286,11 +276,7 @@ class AIEngineer:
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dream-kid-342&bg_color=0d1117&color=4fc3f7&line=4fc3f7&point=ffffff&area=true&area_color=1a2332&hide_border=false&border_color=4fc3f7)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/4fc3f7/Dream-kid-342" alt="Contribution Chart" width="100%"/>
+<img src="https://ghchart.rshah.org/238636/Dream-kid-342" alt="GitHub Contribution Calendar" width="100%"/>
 
 </div>
 
@@ -324,19 +310,19 @@ class AIEngineer:
 
 <br/>
 
-<a href="mailto:Dream-kid-342@email.com">
+<a href="mailto:mumohack5@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/Dream-kid-342">
+<a href="https://twitter.com/dreamkid_342">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/Dream-kid-342">
+<a href="https://linkedin.com/in/enockmumo">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://Dream-kid-342.dev">
+<a href="https://dream-kid-342.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-4FC3F7?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
 </a>
 &nbsp;
